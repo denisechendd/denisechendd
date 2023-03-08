@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working as full-time data scientist at Statistics Canada.
 - 🌱 My academic background: **Master Degree** in **Computer Science, Big Data at Simon Fraser University (SFU)**.
 - 👯 My personality:
   - Self driven learner with the completion of several online courses and achievement of certificate in Coursera, DataCamp, and Udemy
