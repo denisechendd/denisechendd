@@ -1,4 +1,4 @@
-Python Backend Development for Mobile Products  /n
-Install SQLite on Win10   /n
-Install Android Studio on Mac
-Install Postman Tool for API Testing
+Python Backend Development for Mobile Products  </n>
+1. Install SQLite on Win10   </n>
+2. Install Android Studio on Mac      </n>
+3. Install Postman Tool for API Testing    </n>
